@@ -20,7 +20,8 @@ public class mainServlet extends HttpServlet {
 	
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		System.out.println("mainServlet - HotFixBranch");
-		System.out.println("mainServlet - 팀장이 수정");
+		System.out.println("mainServlet - 팀원이 수정");
+
 	}
 
 	
